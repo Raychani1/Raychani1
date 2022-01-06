@@ -1,4 +1,4 @@
-### Hello Friend 🤖
+## Hello Friend 🤖
 
 <!--
 **Raychani1/Raychani1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Raychani1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raychani1&hide=issues,stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true&include_all_contributions=true
-)](https://github.com/Raychani1/github-readme-stats)
+)](#)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raychani1&langs_count=10&theme=dark)](https://github.com/Raychani1/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raychani1&langs_count=10&theme=dark)](#)
 
