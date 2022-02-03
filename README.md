@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![Raychani1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raychani1&hide=issues,stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true&include_all_contributions=true
 )](#)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raychani1&langs_count=10&theme=dark)](#)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raychani1&langs_count=10&theme=dark&exclude_repo=first-contributions,open-pixel-art)](#)
 
